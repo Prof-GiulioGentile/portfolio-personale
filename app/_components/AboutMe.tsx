@@ -61,13 +61,14 @@ const AboutMe = () => {
                 </h2>
 
                 <p className="pb-3 border-b text-muted-foreground slide-up-and-fade">
-                    This is me.
+                    Mi presento.
                 </p>
 
                 <div className="grid md:grid-cols-12 mt-9">
                     <div className="md:col-span-5">
                         <p className="text-5xl slide-up-and-fade">
-                            Ciao, sono Giulio Gentile.
+                            Ciao, sono <br />
+                            Giulio Gentile.
                         </p>
                     </div>
                     <div className="md:col-span-7">
